@@ -35,10 +35,21 @@ No lecture due to Imagine Day.
 
  - [L03-LinearSystems.ipynb](notes/L03-LinearSystems.ipynb) : Numerical solution of linear systems, LU factorisation, review of eigendecomposition
  - [WS01-WS01-Installing-Julia.ipynb](notes/WS01-Installing-Julia.ipynb) : setup of the computational infrastructure
-   - Recorded lecture R02 on hermitian matrices: [[pdf]](https://www.dropbox.com/s/vw8gl5ylh7cjlji/R02-HermitianMatrices.pdf?dl=0), [[mov]](https://www.dropbox.com/s/ejuw0uteq8g1oik/R02-HermitianMatrices.mov?dl=0), [[m4v]](https://www.dropbox.com/s/fo1tijjubetp8xb/R02-HermitianMatrices.m4v?dl=0)
+ - Recorded lecture R02 on hermitian matrices: [[pdf]](https://www.dropbox.com/s/vw8gl5ylh7cjlji/R02-HermitianMatrices.pdf?dl=0), [[mov]](https://www.dropbox.com/s/ejuw0uteq8g1oik/R02-HermitianMatrices.mov?dl=0), [[m4v]](https://www.dropbox.com/s/fo1tijjubetp8xb/R02-HermitianMatrices.m4v?dl=0)
 
 
 
-## Assignments
+#### Rough outline of remaining lectures 
 
-Here I will post information about assignments.
+* Tue 22 Sep : L04, Nonlinear Systems
+* Tue 29 Sep : L05, Interpolation and Quadrature 
+* Preparatory Reading: Intro to Fourier Analysis
+    - recorded lecture 
+    -  If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
+* Tue 6, 13, 20 Oct : L06, L07, L08 on IVPs, Stability, Hamiltonian Systems
+* Tue 27 Oct : PDEs - Diffusion
+* Tue 3 Nov : PDEs - Advection 
+* Tue 10 Nov : PDEs - Fast solvers for elliptic problems 
+* Tue 17 Nov : Spectral methods - approximation theory 
+* Tue 24 Nov : Spectral methods - applications to PDEs
+* Final Week of lectures : catch-up time
