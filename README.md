@@ -36,7 +36,8 @@ No lecture due to Imagine Day.
  - [L03-LinearSystems.ipynb](notes/L03-LinearSystems.ipynb) : Numerical solution of linear systems, LU factorisation, review of eigendecomposition
  - [WS01-WS01-Installing-Julia.ipynb](notes/WS01-Installing-Julia.ipynb) : setup of the computational infrastructure
  - Recorded lecture R02 on hermitian matrices: [[pdf]](https://www.dropbox.com/s/vw8gl5ylh7cjlji/R02-HermitianMatrices.pdf?dl=0), [[mov]](https://www.dropbox.com/s/ejuw0uteq8g1oik/R02-HermitianMatrices.mov?dl=0), [[m4v]](https://www.dropbox.com/s/fo1tijjubetp8xb/R02-HermitianMatrices.m4v?dl=0)
-
+ - [Recording of live lecture](https://ubc.zoom.us/rec/share/Bx7CNeEDX981FzvazbDS5Kp5NCKIUQEBt2KMrlV1InuGTI0gKp6AjZbIPCBN4ixf.lIpLES9KvHyVYNhf?startTime=1600200337000)
+ - [Additional Recording on How to Complete Assignments](https://www.dropbox.com/s/7l0kabfmry4b3m4/S01-assignments.mp4?dl=0)
 
 
 #### Rough outline of remaining lectures 
