@@ -21,7 +21,7 @@ Here I will post a brief summary of each lecture, the relevant notebooks, record
 
 #### Tue 8 Sep 2020
 
-No lecture due to Imagine Day. 
+No lecture due to Imagine Day.
 
 #### Thu 10 Sep 2020
 
@@ -31,25 +31,39 @@ No lecture due to Imagine Day.
 
 
 
-#### Tue 15 Sep 2020 
+#### Tue 15 Sep 2020
 
  - [L03-LinearSystems.ipynb](notes/L03-LinearSystems.ipynb) : Numerical solution of linear systems, LU factorisation, review of eigendecomposition
  - [WS01-WS01-Installing-Julia.ipynb](notes/WS01-Installing-Julia.ipynb) : setup of the computational infrastructure
  - Recorded lecture R02 on hermitian matrices: [[pdf]](https://www.dropbox.com/s/vw8gl5ylh7cjlji/R02-HermitianMatrices.pdf?dl=0), [[mov]](https://www.dropbox.com/s/ejuw0uteq8g1oik/R02-HermitianMatrices.mov?dl=0), [[m4v]](https://www.dropbox.com/s/fo1tijjubetp8xb/R02-HermitianMatrices.m4v?dl=0)
+ - [Recording of live lecture](https://ubc.zoom.us/rec/share/Bx7CNeEDX981FzvazbDS5Kp5NCKIUQEBt2KMrlV1InuGTI0gKp6AjZbIPCBN4ixf.lIpLES9KvHyVYNhf?startTime=1600200337000)
+ - [Additional Recording on How to Complete Assignments](https://www.dropbox.com/s/7l0kabfmry4b3m4/S01-assignments.mp4?dl=0)
+
+#### Thu 17 Sep
+ - Complete linear systems (eigen decomposition) but you are welcome to read this also on your own; cf. L03
+ - The remaining time will be used as an office hour to finalize everybody's setup. If you don't yet have a working setup then please come to this session.
+
+#### Tue 22 Sep
+ - [L04-Nonlinear-Systems.ipynb](notes/L04-Nonlinear-Systems.ipynb) : Iterative solution of nonlinear equations and systems, Newton, bisection, fixed point iterations.
+ - Recorded lecture on Newton's method: [[pdf]](https://www.dropbox.com/s/rprve1vekl3jnz0/R03-NewtonMethod.pdf?dl=0), [[mov]](https://www.dropbox.com/s/4ewsg8bemfa2kcp/R03-NewtonMethod.mov?dl=0), [[m4v]](https://www.dropbox.com/s/i8ss4onb06zhbn4/R03-NewtonMethod.m4v?dl=0)
+ - The remaining time will be used to discuss miniprojects.
+
+#### Thu 24 Sep
+ - Miniproject: C. Ortner - The standard model of Floating Point Arithmetic
+ - Miniproject: TBA
+ - Miniproject: TBA
 
 
+### Rough outline of remaining lectures
 
-#### Rough outline of remaining lectures 
-
-* Tue 22 Sep : L04, Nonlinear Systems
-* Tue 29 Sep : L05, Interpolation and Quadrature 
+* Tue 29 Sep : L05, Interpolation and Quadrature
 * Preparatory Reading: Intro to Fourier Analysis
-    - recorded lecture 
+    - recorded lecture
     -  If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
 * Tue 6, 13, 20 Oct : L06, L07, L08 on IVPs, Stability, Hamiltonian Systems
 * Tue 27 Oct : PDEs - Diffusion
-* Tue 3 Nov : PDEs - Advection 
-* Tue 10 Nov : PDEs - Fast solvers for elliptic problems 
-* Tue 17 Nov : Spectral methods - approximation theory 
+* Tue 3 Nov : PDEs - Advection
+* Tue 10 Nov : PDEs - Fast solvers for elliptic problems
+* Tue 17 Nov : Spectral methods - approximation theory
 * Tue 24 Nov : Spectral methods - applications to PDEs
 * Final Week of lectures : catch-up time
