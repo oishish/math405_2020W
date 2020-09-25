@@ -50,11 +50,12 @@ No lecture due to Imagine Day.
  - Recorded lecture on Newton's method: [[pdf]](https://www.dropbox.com/s/rprve1vekl3jnz0/R03-NewtonMethod.pdf?dl=0), [[mov]](https://www.dropbox.com/s/4ewsg8bemfa2kcp/R03-NewtonMethod.mov?dl=0), [[m4v]](https://www.dropbox.com/s/i8ss4onb06zhbn4/R03-NewtonMethod.m4v?dl=0)
  - The remaining time will be used to discuss miniprojects.
 
+
 #### Thu 24 Sep
  - Miniproject: C. Ortner - The standard model of Floating Point Arithmetic
- - Miniproject: TBA
- - Miniproject: TBA
-
+ - Miniproject: todo
+ - [Live Recording](https://www.dropbox.com/s/hbcluky2im2np2g/LL-28Sep.mp4?dl=0)
+ 
 
 ### Rough outline of remaining lectures
 
