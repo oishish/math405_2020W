@@ -50,20 +50,26 @@ No lecture due to Imagine Day.
  - Recorded lecture on Newton's method: [[pdf]](https://www.dropbox.com/s/rprve1vekl3jnz0/R03-NewtonMethod.pdf?dl=0), [[mov]](https://www.dropbox.com/s/4ewsg8bemfa2kcp/R03-NewtonMethod.mov?dl=0), [[m4v]](https://www.dropbox.com/s/i8ss4onb06zhbn4/R03-NewtonMethod.m4v?dl=0)
  - The remaining time will be used to discuss miniprojects.
 
-
 #### Thu 24 Sep
  - Miniproject: C. Ortner - The standard model of Floating Point Arithmetic
- - Miniproject: todo
- - [Live Recording](https://www.dropbox.com/s/hbcluky2im2np2g/LL-28Sep.mp4?dl=0)
- 
+ - Miniproject 1 - Group-0 Miniproject - Linear Least Squares and the QR factoriation
+ - [Live Recording](https://www.dropbox.com/s/hbcluky2im2np2g/LL-24Sep.mp4?dl=0)
+
+#### Tue 29 Sep 
+ - [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
+ - Recorded Lecture on Weierstrass Approximation Theorem: [[pdf]](https://www.dropbox.com/s/7da4fxrywh2st6r/R04-WeierstrassApxThm.pdf?dl=0), [[mov]](https://www.dropbox.com/s/3q3g1tu6vxgsolu/R04-WeierstrassApxThm.mov?dl=0), [[m4v]](https://www.dropbox.com/s/oq3pohooiz8ko8c/R04-WeierstrassApxThm.m4v?dl=0)
+
+#### Thu 1 Oct 
+ - Miniproject-1 Group-1: Thomas Algorithm
+
+
 
 ### Rough outline of remaining lectures
 
-* Tue 29 Sep : L05, Interpolation and Quadrature
+* Tue 6, 13, 20 Oct : L06, L07, L08 on IVPs, Stability, Hamiltonian Systems
 * Preparatory Reading: Intro to Fourier Analysis
     - recorded lecture
     -  If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
-* Tue 6, 13, 20 Oct : L06, L07, L08 on IVPs, Stability, Hamiltonian Systems
 * Tue 27 Oct : PDEs - Diffusion
 * Tue 3 Nov : PDEs - Advection
 * Tue 10 Nov : PDEs - Fast solvers for elliptic problems
