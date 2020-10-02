@@ -63,6 +63,7 @@ No lecture due to Imagine Day.
 #### Thu 1 Oct 
  - Miniproject-1 Group-1: Thomas Algorithm
  - Complete [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/gysgg2gjcokyfbd/LL-01Oct.mp4?dl=0)
 
 
 ### Rough outline of remaining lectures
