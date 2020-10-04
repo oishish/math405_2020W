@@ -53,3 +53,12 @@ git reset --hard
 git pull
 ```
 
+### Submit assignment 
+
+If  you complete an assignment on Jupyterhub follow these instructions to 
+submit it to CANVAS: 
+* Do not right-click on `Ax.ipynb` and save that file. This will not be 
+the correct assignment file!
+* Instead, click on the checkbox next to `Ax.ipynb`, and then on the 
+`[Download]` button that appears above the file list. Download the file 
+to your computer and then upload to Canvas.
