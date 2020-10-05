@@ -58,10 +58,12 @@ No lecture due to Imagine Day.
 #### Tue 29 Sep 
  - [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
  - Recorded Lecture on Weierstrass Approximation Theorem: [[pdf]](https://www.dropbox.com/s/7da4fxrywh2st6r/R04-WeierstrassApxThm.pdf?dl=0), [[mov]](https://www.dropbox.com/s/3q3g1tu6vxgsolu/R04-WeierstrassApxThm.mov?dl=0), [[m4v]](https://www.dropbox.com/s/oq3pohooiz8ko8c/R04-WeierstrassApxThm.m4v?dl=0)
+ - [Live Recording](https://www.dropbox.com/s/j3ybkoqb4lx3pvk/LL-29Sep.mp4?dl=0)
 
 #### Thu 1 Oct 
  - Miniproject-1 Group-1: Thomas Algorithm
-
+ - Complete [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/gysgg2gjcokyfbd/LL-01Oct.mp4?dl=0)
 
 
 ### Rough outline of remaining lectures
@@ -75,4 +77,4 @@ No lecture due to Imagine Day.
 * Tue 10 Nov : PDEs - Fast solvers for elliptic problems
 * Tue 17 Nov : Spectral methods - approximation theory
 * Tue 24 Nov : Spectral methods - applications to PDEs
-* Final Week of lectures : catch-up time
+* Final Week of lectures : catch-up time, or we can have some fun with neural networks?
