@@ -1,0 +1,23 @@
+What do we need in our presentation?
+
+Theoretical explanation of thomas alg.
+Implementation in Julia
+Comparison to basic LU decompisition
+Investigation of instability
+more?
+
+Thomas Algorithm is basically a simple version of Gaussian elimination
+
+Introduction to triadiagonal  (me)
+    - why care? 
+    - what kinds of problems?
+    - relation to rest of the course?
+
+What is the Thomas algorithm (Jae)
+    - how does it work?
+    - instability
+
+Application/coding (Sonny)
+    - 
+
+
