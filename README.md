@@ -65,6 +65,11 @@ No lecture due to Imagine Day.
  - Complete [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
  - [Live Recording](https://www.dropbox.com/s/gysgg2gjcokyfbd/LL-01Oct.mp4?dl=0)
 
+### Tue 6 Oct 
+ - [L06-IVPs.ipynb](notes/L06-IVPs.ipynb) - Numerical solution of ODEs 
+ - TODO: lecture on Gronwall inequalities
+
+
 
 ### Rough outline of remaining lectures
 
