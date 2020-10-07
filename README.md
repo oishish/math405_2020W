@@ -68,7 +68,7 @@ No lecture due to Imagine Day.
 ### Tue 6 Oct 
  - [L06-IVPs.ipynb](notes/L06-IVPs.ipynb) - Numerical solution of ODEs 
  - [Live Recording](https://www.dropbox.com/s/l1bls0vf3u2hrxx/LL-06Oct.mp4?dl=0)
- - TODO: recorded lecture on Gronwall inequalities!
+ - [R05-Gronwall](https://www.dropbox.com/s/xco9b8zek8hu3xz/R05-GronwallInequalities.mov?dl=0) - ecorded lecture on Gronwall inequalities
 
 
 
