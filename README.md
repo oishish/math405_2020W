@@ -68,8 +68,18 @@ No lecture due to Imagine Day.
 ### Tue 6 Oct 
  - [L06-IVPs.ipynb](notes/L06-IVPs.ipynb) - Numerical solution of ODEs 
  - [Live Recording](https://www.dropbox.com/s/l1bls0vf3u2hrxx/LL-06Oct.mp4?dl=0)
- - [R05-Gronwall](https://www.dropbox.com/s/xco9b8zek8hu3xz/R05-GronwallInequalities.mov?dl=0) - ecorded lecture on Gronwall inequalities
+ - [R05-Gronwall](https://www.dropbox.com/s/xco9b8zek8hu3xz/R05-GronwallInequalities.mov?dl=0) - recorded lecture on Gronwall inequalities
 
+### Thu 8 Oct
+ - Miniproject 1 Group 2 : Steepest descent method
+ - Miniproject 1 Group 3 : Nonlinear Least squares 
+
+### Tue 13 Oct 
+ - Stability, stiff equations, implicit numerical integrators 
+
+### Thu 15 Oct
+ - Miniproject 1 Group 4 : Brent's method
+ - Miniproject 1 Group 5 : B-splines
 
 
 ### Rough outline of remaining lectures
