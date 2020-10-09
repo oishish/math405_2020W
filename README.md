@@ -73,6 +73,7 @@ No lecture due to Imagine Day.
 ### Thu 8 Oct
  - Miniproject 1 Group 2 : Steepest descent method
  - Miniproject 1 Group 3 : Nonlinear Least squares 
+ - [Live Recording](https://www.dropbox.com/s/km2i60203h22su2/LL-08Oct.mp4?dl=0)
 
 ### Tue 13 Oct 
  - Stability, stiff equations, implicit numerical integrators 
