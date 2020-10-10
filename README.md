@@ -65,6 +65,23 @@ No lecture due to Imagine Day.
  - Complete [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
  - [Live Recording](https://www.dropbox.com/s/gysgg2gjcokyfbd/LL-01Oct.mp4?dl=0)
 
+### Tue 6 Oct 
+ - [L06-IVPs.ipynb](notes/L06-IVPs.ipynb) - Numerical solution of ODEs 
+ - [Live Recording](https://www.dropbox.com/s/l1bls0vf3u2hrxx/LL-06Oct.mp4?dl=0)
+ - Recorded lecture R05-GronwallInequalities: [[pdf]](https://www.dropbox.com/s/bz4qria0ip7r4aw/R05-GronwallInequalities.pdf?dl=0), [[mov]](https://www.dropbox.com/s/hneh3ukds4y3sj2/R05-GronwallInequalities.mov?dl=0), [[m4v]](https://www.dropbox.com/s/totdq2rpikhco36/R05-GronwallInequalities.m4v?dl=0)
+
+### Thu 8 Oct
+ - Miniproject 1 Group 2 : Steepest descent method
+ - Miniproject 1 Group 3 : Nonlinear Least squares 
+ - [Live Recording](https://www.dropbox.com/s/km2i60203h22su2/LL-08Oct.mp4?dl=0)
+
+### Tue 13 Oct 
+ - Stability, stiff equations, implicit numerical integrators 
+
+### Thu 15 Oct
+ - Miniproject 1 Group 4 : Brent's method
+ - Miniproject 1 Group 5 : B-splines
+
 
 ### Rough outline of remaining lectures
 
