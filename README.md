@@ -77,15 +77,19 @@ No lecture due to Imagine Day.
 
 ### Tue 13 Oct 
  - Stability, stiff equations, implicit numerical integrators 
+ - [L07-L07-IVPs-Stability.ipynb](notes/L07-IVPs-Stability.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/dfgll2cwe3878k0/LL-13Oct.mp4?dl=0)
 
 ### Thu 15 Oct
  - Miniproject 1 Group 4 : Brent's method
  - Miniproject 1 Group 5 : B-splines
+ - [Live Recording](https://www.dropbox.com/s/em09jo0pos7ol9m/LL-15Oct.mp4?dl=0)
+
 
 
 ### Rough outline of remaining lectures
 
-* Tue 6, 13, 20 Oct : L06, L07, L08 on IVPs, Stability, Hamiltonian Systems
+* 20 Oct : Hamiltonian Systems
 * Preparatory Reading: Intro to Fourier Analysis
     - recorded lecture
     -  If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
