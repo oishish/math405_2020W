@@ -85,11 +85,20 @@ No lecture due to Imagine Day.
  - Miniproject 1 Group 5 : B-splines
  - [Live Recording](https://www.dropbox.com/s/em09jo0pos7ol9m/LL-15Oct.mp4?dl=0)
 
+### Tue 20 Oct
+ - structure preserving numerical integrators: Hamiltonian systems
+ - [L08-IVPs-Hamiltonian.ipynb](notes/L08-IVPs-Hamiltonian.ipynb)
+
+### Thu 22 Oct
+ - Miniproject 1 Group 7 : Compensated summation
+ - Miniproject 1 Group 8 : Adaptive Quadrature
+
+### Preparatory reading for PDEs
+ - Please Review [L02-Preview-2ptBVP.ipynb](notes/L02-Preview-2ptBVP.ipynb)
+ - Recorded lecture R06 on Fourier Analysis: [[pdf]](https://www.dropbox.com/s/im8jqyyyx3lto20/R06-FourierAnalysis.pdf?dl=0) [[mov]](https://www.dropbox.com/s/c5cyj9q7tydfhcv/R06-FourierAnalysis.mov?dl=0) [[m4v]](https://www.dropbox.com/s/t0asyp2jxqgj8ph/R06-FourierAnalysis.m4v?dl=0)
 
 
 ### Rough outline of remaining lectures
-
-* 20 Oct : Hamiltonian Systems
 * Preparatory Reading: Intro to Fourier Analysis
     - recorded lecture
     -  If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
