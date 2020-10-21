@@ -88,6 +88,7 @@ No lecture due to Imagine Day.
 ### Tue 20 Oct
  - structure preserving numerical integrators: Hamiltonian systems
  - [L08-IVPs-Hamiltonian.ipynb](notes/L08-IVPs-Hamiltonian.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/116c6pentcrb486/LL-20Oct.mp4?dl=0)
 
 ### Thu 22 Oct
  - Miniproject 1 Group 7 : Compensated summation
