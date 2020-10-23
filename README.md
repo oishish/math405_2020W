@@ -91,6 +91,7 @@ No lecture due to Imagine Day.
  - [Live Recording](https://www.dropbox.com/s/116c6pentcrb486/LL-20Oct.mp4?dl=0)
 
 ### Thu 22 Oct
+ - [Live Recording](https://www.dropbox.com/s/c3lhppi6f76q4jj/LL-22Oct.mp4?dl=0)
  - Miniproject 1 Group 7 : Compensated summation
  - Miniproject 1 Group 8 : Adaptive Quadrature
 
