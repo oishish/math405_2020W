@@ -92,8 +92,8 @@ No lecture due to Imagine Day.
 
 ### Thu 22 Oct
  - [Live Recording](https://www.dropbox.com/s/c3lhppi6f76q4jj/LL-22Oct.mp4?dl=0)
- - Miniproject 1 Group 7 : Compensated summation
- - Miniproject 1 Group 8 : Adaptive Quadrature
+ - Miniproject 1 Group 6 : Compensated summation
+ - Miniproject 1 Group 7 : Adaptive Quadrature
 
 
 ### Preparatory reading for PDEs
@@ -103,6 +103,12 @@ No lecture due to Imagine Day.
  
 ### Tue 27 Oct
  - [L09-PDEs-Diffusion](notes/L09-PDE-Diffusion.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/kz6n0g9vl2tj804/LL-27Oct.mp4?dl=0)
+
+### Thu 29 Oct
+ - Miniproject 1 Group 8 : Introduction to Multi-step methods
+ - Miniproject 1 Group 9 : Adaptive ODE Solvers
+
 
 <!-- #endregion -->
 
