@@ -108,6 +108,7 @@ No lecture due to Imagine Day.
 ### Thu 29 Oct
  - Miniproject 1 Group 8 : Introduction to Multi-step methods
  - Miniproject 1 Group 9 : Adaptive ODE Solvers
+ - [Live Recording](https://www.dropbox.com/s/1espj2g2076izez/LL-29Oct.mp4?dl=0)
 
 
 <!-- #endregion -->
