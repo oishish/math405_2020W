@@ -110,12 +110,12 @@ No lecture due to Imagine Day.
  - Miniproject 1 Group 9 : Adaptive ODE Solvers
  - [Live Recording](https://www.dropbox.com/s/1espj2g2076izez/LL-29Oct.mp4?dl=0)
 
+### Tue 3 Nov 
+ - [L10-PDEs-Advection](notes/L10-PDE-Advection.ipynb)
 
-<!-- #endregion -->
 
 ### Rough outline of remaining lectures
-* Tue 3 Nov : PDEs - Advection
-* Tue 10 Nov : PDEs - Fast solvers for elliptic problems
-* Tue 17 Nov : Spectral methods - approximation theory
-* Tue 24 Nov : Spectral methods - applications to PDEs
-* Final Week of lectures : catch-up time, or we can have some fun with neural networks?
+* Tue 10 Nov : Spectral methods - approximation theory
+* Tue 17 Nov : Spectral methods - applications to PDEs
+* Tue 24 Nov : PDEs - Fast solvers for elliptic problems
+* Final Week of lectures : catch-up, break, or we can have some fun with neural networks?
