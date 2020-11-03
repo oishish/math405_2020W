@@ -112,7 +112,7 @@ No lecture due to Imagine Day.
 
 ### Tue 3 Nov 
  - [L10-PDEs-Advection](notes/L10-PDE-Advection.ipynb)
-
+ - [Live Recording](https://www.dropbox.com/s/cufecn7fxggo9k2/LL-03Nov.mp4?dl=0)
 
 ### Rough outline of remaining lectures
 * Tue 10 Nov : Spectral methods - approximation theory
