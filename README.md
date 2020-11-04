@@ -30,7 +30,7 @@ No lecture due to Imagine Day.
 - Recorded Lecture R01 Error Estimate for the 2-point BVP: [[pdf]](https://www.dropbox.com/s/r3ggku6pei6jyv6/R01-ErrorAnalysis-2ptbvp.pdf?dl=0), [[mov]](https://www.dropbox.com/s/siu1avr9373zkmc/R01-ErrorAnalysis2ptbvp.mov?dl=0), [[m4v]](https://www.dropbox.com/s/wysjmuavxr5tsjx/R01-ErrorAnalysis2ptbvp.m4v?dl=0)
 
 
-
+<!-- #region -->
 #### Tue 15 Sep 2020
 
  - [L03-LinearSystems.ipynb](notes/L03-LinearSystems.ipynb) : Numerical solution of linear systems, LU factorisation, review of eigendecomposition
@@ -85,17 +85,37 @@ No lecture due to Imagine Day.
  - Miniproject 1 Group 5 : B-splines
  - [Live Recording](https://www.dropbox.com/s/em09jo0pos7ol9m/LL-15Oct.mp4?dl=0)
 
+### Tue 20 Oct
+ - structure preserving numerical integrators: Hamiltonian systems
+ - [L08-IVPs-Hamiltonian.ipynb](notes/L08-IVPs-Hamiltonian.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/116c6pentcrb486/LL-20Oct.mp4?dl=0)
 
+### Thu 22 Oct
+ - [Live Recording](https://www.dropbox.com/s/c3lhppi6f76q4jj/LL-22Oct.mp4?dl=0)
+ - Miniproject 1 Group 6 : Compensated summation
+ - Miniproject 1 Group 7 : Adaptive Quadrature
+
+
+### Preparatory reading for PDEs
+ - Please Review [L02-Preview-2ptBVP.ipynb](notes/L02-Preview-2ptBVP.ipynb)
+ - Recorded lecture R06 on Fourier Analysis: [[pdf]](https://www.dropbox.com/s/im8jqyyyx3lto20/R06-FourierAnalysis.pdf?dl=0) [[mov]](https://www.dropbox.com/s/c5cyj9q7tydfhcv/R06-FourierAnalysis.mov?dl=0) [[m4v]](https://www.dropbox.com/s/t0asyp2jxqgj8ph/R06-FourierAnalysis.m4v?dl=0)
+ - If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
+ 
+### Tue 27 Oct
+ - [L09-PDEs-Diffusion](notes/L09-PDE-Diffusion.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/kz6n0g9vl2tj804/LL-27Oct.mp4?dl=0)
+
+### Thu 29 Oct
+ - Miniproject 1 Group 8 : Introduction to Multi-step methods
+ - Miniproject 1 Group 9 : Adaptive ODE Solvers
+ - [Live Recording](https://www.dropbox.com/s/1espj2g2076izez/LL-29Oct.mp4?dl=0)
+
+### Tue 3 Nov 
+ - [L10-PDEs-Advection](notes/L10-PDE-Advection.ipynb)
+ - [Live Recording](https://www.dropbox.com/s/cufecn7fxggo9k2/LL-03Nov.mp4?dl=0)
 
 ### Rough outline of remaining lectures
-
-* 20 Oct : Hamiltonian Systems
-* Preparatory Reading: Intro to Fourier Analysis
-    - recorded lecture
-    -  If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
-* Tue 27 Oct : PDEs - Diffusion
-* Tue 3 Nov : PDEs - Advection
-* Tue 10 Nov : PDEs - Fast solvers for elliptic problems
-* Tue 17 Nov : Spectral methods - approximation theory
-* Tue 24 Nov : Spectral methods - applications to PDEs
-* Final Week of lectures : catch-up time, or we can have some fun with neural networks?
+* Tue 10 Nov : Spectral methods - approximation theory
+* Tue 17 Nov : Spectral methods - applications to PDEs
+* Tue 24 Nov : PDEs - Fast solvers for elliptic problems
+* Final Week of lectures : catch-up, break, or we can have some fun with neural networks?
