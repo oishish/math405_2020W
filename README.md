@@ -116,6 +116,7 @@ No lecture due to Imagine Day.
 
 ### Tue 10 Nov
  - [L11-SpectralMethods-Approximation](notes/L11-SpectralMethods-Approximation.ipynb)
+ - Recorded Lecture on Paley Wiener Theorems: [[pdf]](https://www.dropbox.com/s/yhot3194h9yojd1/R07-PaleyWienerTheorem.pdf?dl=0) [[mov]](https://www.dropbox.com/s/6ecozbehn8300tw/R07-PaleyWienerTheorem.mov?dl=0) [[m4v]](https://www.dropbox.com/s/i2zpre79kgg9jdo/R07-PaleyWienerTheorems.m4v?dl=0)
 
 ### Preparatory Reading for Fast Solvers / General Interest
  - Implementation of finite-difference laplace operator in 2D, 3D, ...
