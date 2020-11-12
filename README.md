@@ -114,9 +114,19 @@ No lecture due to Imagine Day.
  - [L10-PDEs-Advection](notes/L10-PDE-Advection.ipynb)
  - [Live Recording](https://www.dropbox.com/s/cufecn7fxggo9k2/LL-03Nov.mp4?dl=0)
 
+### Thu 5 Nov 
+ - Project 2 - Group 1: QR Algorithm for Eigenvalue Problems
+ - [Live Recording](https://www.dropbox.com/s/znrt5eqjt9re8yp/LL-05Nov.mp4?dl=0)
+
 ### Tue 10 Nov
  - [L11-SpectralMethods-Approximation](notes/L11-SpectralMethods-Approximation.ipynb)
  - Recorded Lecture on Paley Wiener Theorems: [[pdf]](https://www.dropbox.com/s/yhot3194h9yojd1/R07-PaleyWienerTheorem.pdf?dl=0) [[mov]](https://www.dropbox.com/s/6ecozbehn8300tw/R07-PaleyWienerTheorem.mov?dl=0) [[m4v]](https://www.dropbox.com/s/i2zpre79kgg9jdo/R07-PaleyWienerTheorems.m4v?dl=0)
+ - [Live Recording](https://www.dropbox.com/s/p3ihc1vc2qccz7d/LL-10Nov.mp4?dl=0)
+
+### Thu 12 Nov 
+  - Miniproject 2 - Group 2 : Symplectic Integrators 
+  - Miniproject 2 - Grad-Students : SDEs 
+  - [Live Recording](https://www.dropbox.com/s/dxb9yfex24iif7f/LL-12Nov.mp4?dl=0)
 
 ### Preparatory Reading for Fast Solvers / General Interest
  - Implementation of finite-difference laplace operator in 2D, 3D, ...
