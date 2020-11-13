@@ -36,7 +36,7 @@ No lecture due to Imagine Day.
  - [L03-LinearSystems.ipynb](notes/L03-LinearSystems.ipynb) : Numerical solution of linear systems, LU factorisation, review of eigendecomposition
  - [WS01-WS01-Installing-Julia.ipynb](notes/WS01-Installing-Julia.ipynb) : setup of the computational infrastructure
  - Recorded lecture R02 on hermitian matrices: [[pdf]](https://www.dropbox.com/s/vw8gl5ylh7cjlji/R02-HermitianMatrices.pdf?dl=0), [[mov]](https://www.dropbox.com/s/ejuw0uteq8g1oik/R02-HermitianMatrices.mov?dl=0), [[m4v]](https://www.dropbox.com/s/fo1tijjubetp8xb/R02-HermitianMatrices.m4v?dl=0)
- - [Live Lecture](https://www.dropbox.com/s/udkht0ad8hpikm3/LL-15Sep.mp4?dl=0) 
+ - [Live Lecture](https://www.dropbox.com/s/udkht0ad8hpikm3/LL-15Sep.mp4?dl=0)
  - [S01-assignments](https://www.dropbox.com/s/7l0kabfmry4b3m4/S01-assignments.mp4?dl=0) (Additional Recording on How to Complete Assignments)
 
 #### Thu 17 Sep
@@ -55,28 +55,28 @@ No lecture due to Imagine Day.
  - Miniproject 1 - Group-0 Miniproject - Linear Least Squares and the QR factoriation
  - [Live Recording](https://www.dropbox.com/s/hbcluky2im2np2g/LL-24Sep.mp4?dl=0)
 
-#### Tue 29 Sep 
+#### Tue 29 Sep
  - [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
  - Recorded Lecture on Weierstrass Approximation Theorem: [[pdf]](https://www.dropbox.com/s/7da4fxrywh2st6r/R04-WeierstrassApxThm.pdf?dl=0), [[mov]](https://www.dropbox.com/s/3q3g1tu6vxgsolu/R04-WeierstrassApxThm.mov?dl=0), [[m4v]](https://www.dropbox.com/s/oq3pohooiz8ko8c/R04-WeierstrassApxThm.m4v?dl=0)
  - [Live Recording](https://www.dropbox.com/s/j3ybkoqb4lx3pvk/LL-29Sep.mp4?dl=0)
 
-#### Thu 1 Oct 
+#### Thu 1 Oct
  - Miniproject-1 Group-1: Thomas Algorithm
  - Complete [L05-Interpolation-Quadrature.ipynb](notes/L05-Interpolation-Quadrature.ipynb)
  - [Live Recording](https://www.dropbox.com/s/gysgg2gjcokyfbd/LL-01Oct.mp4?dl=0)
 
-### Tue 6 Oct 
- - [L06-IVPs.ipynb](notes/L06-IVPs.ipynb) - Numerical solution of ODEs 
+### Tue 6 Oct
+ - [L06-IVPs.ipynb](notes/L06-IVPs.ipynb) - Numerical solution of ODEs
  - [Live Recording](https://www.dropbox.com/s/l1bls0vf3u2hrxx/LL-06Oct.mp4?dl=0)
  - Recorded lecture R05-GronwallInequalities: [[pdf]](https://www.dropbox.com/s/bz4qria0ip7r4aw/R05-GronwallInequalities.pdf?dl=0), [[mov]](https://www.dropbox.com/s/hneh3ukds4y3sj2/R05-GronwallInequalities.mov?dl=0), [[m4v]](https://www.dropbox.com/s/totdq2rpikhco36/R05-GronwallInequalities.m4v?dl=0)
 
 ### Thu 8 Oct
  - Miniproject 1 Group 2 : Steepest descent method
- - Miniproject 1 Group 3 : Nonlinear Least squares 
+ - Miniproject 1 Group 3 : Nonlinear Least squares
  - [Live Recording](https://www.dropbox.com/s/km2i60203h22su2/LL-08Oct.mp4?dl=0)
 
-### Tue 13 Oct 
- - Stability, stiff equations, implicit numerical integrators 
+### Tue 13 Oct
+ - Stability, stiff equations, implicit numerical integrators
  - [L07-L07-IVPs-Stability.ipynb](notes/L07-IVPs-Stability.ipynb)
  - [Live Recording](https://www.dropbox.com/s/dfgll2cwe3878k0/LL-13Oct.mp4?dl=0)
 
@@ -100,7 +100,7 @@ No lecture due to Imagine Day.
  - Please Review [L02-Preview-2ptBVP.ipynb](notes/L02-Preview-2ptBVP.ipynb)
  - Recorded lecture R06 on Fourier Analysis: [[pdf]](https://www.dropbox.com/s/im8jqyyyx3lto20/R06-FourierAnalysis.pdf?dl=0) [[mov]](https://www.dropbox.com/s/c5cyj9q7tydfhcv/R06-FourierAnalysis.mov?dl=0) [[m4v]](https://www.dropbox.com/s/t0asyp2jxqgj8ph/R06-FourierAnalysis.m4v?dl=0)
  - If you'd like to dive deeper into this topic I recommend e.g. [Chapter 2](https://people.maths.ox.ac.uk/trefethen/2all.pdf) from Nick Trefethen's lecture notes.
- 
+
 ### Tue 27 Oct
  - [L09-PDEs-Diffusion](notes/L09-PDE-Diffusion.ipynb)
  - [Live Recording](https://www.dropbox.com/s/kz6n0g9vl2tj804/LL-27Oct.mp4?dl=0)
@@ -110,12 +110,30 @@ No lecture due to Imagine Day.
  - Miniproject 1 Group 9 : Adaptive ODE Solvers
  - [Live Recording](https://www.dropbox.com/s/1espj2g2076izez/LL-29Oct.mp4?dl=0)
 
-### Tue 3 Nov 
+### Tue 3 Nov
  - [L10-PDEs-Advection](notes/L10-PDE-Advection.ipynb)
  - [Live Recording](https://www.dropbox.com/s/cufecn7fxggo9k2/LL-03Nov.mp4?dl=0)
 
+### Thu 5 Nov 
+ - Project 2 - Group 1: QR Algorithm for Eigenvalue Problems
+ - [Live Recording](https://www.dropbox.com/s/znrt5eqjt9re8yp/LL-05Nov.mp4?dl=0)
+
+### Tue 10 Nov
+ - [L11-SpectralMethods-Approximation](notes/L11-SpectralMethods-Approximation.ipynb)
+ - Recorded Lecture on Paley Wiener Theorems: [[pdf]](https://www.dropbox.com/s/yhot3194h9yojd1/R07-PaleyWienerTheorem.pdf?dl=0) [[mov]](https://www.dropbox.com/s/6ecozbehn8300tw/R07-PaleyWienerTheorem.mov?dl=0) [[m4v]](https://www.dropbox.com/s/i2zpre79kgg9jdo/R07-PaleyWienerTheorems.m4v?dl=0)
+ - [Live Recording](https://www.dropbox.com/s/p3ihc1vc2qccz7d/LL-10Nov.mp4?dl=0)
+
+### Thu 12 Nov 
+  - Miniproject 2 - Group 2 : Symplectic Integrators 
+  - Miniproject 2 - Grad-Students : SDEs 
+  - [Live Recording](https://www.dropbox.com/s/dxb9yfex24iif7f/LL-12Nov.mp4?dl=0)
+
+### Preparatory Reading for Fast Solvers / General Interest
+ - Implementation of finite-difference laplace operator in 2D, 3D, ...
+ - [WS03-FDiff2D](notes/WS03-FDiff2D.ipynb)
+
+
 ### Rough outline of remaining lectures
-* Tue 10 Nov : Spectral methods - approximation theory
 * Tue 17 Nov : Spectral methods - applications to PDEs
 * Tue 24 Nov : PDEs - Fast solvers for elliptic problems
 * Final Week of lectures : catch-up, break, or we can have some fun with neural networks?
