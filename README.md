@@ -128,6 +128,14 @@ No lecture due to Imagine Day.
   - Miniproject 2 - Grad-Students : SDEs 
   - [Live Recording](https://www.dropbox.com/s/dxb9yfex24iif7f/LL-12Nov.mp4?dl=0)
 
+### Tue 17 Nov
+  - [L12-SpectralMethods-PDE](notes/L12-SpectralMethods-BVPs.ipynb)
+  - [Live Recording](https://www.dropbox.com/s/y1sqjjzdtuub7ds/LL-17Nov.mp4?dl=0)
+
+### Thu 19 Nov
+  - Project 2 - Lax-Wendroff Scheme
+  - [Live Recording](https://www.dropbox.com/s/sjnaci6zuswz7o3/LL-19Nov.mp4?dl=0)
+
 ### Preparatory Reading for Fast Solvers / General Interest
  - Implementation of finite-difference laplace operator in 2D, 3D, ...
  - [WS03-FDiff2D](notes/WS03-FDiff2D.ipynb)
