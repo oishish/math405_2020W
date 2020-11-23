@@ -141,7 +141,14 @@ No lecture due to Imagine Day.
  - [WS03-FDiff2D](notes/WS03-FDiff2D.ipynb)
 
 
-### Rough outline of remaining lectures
-* Tue 17 Nov : Spectral methods - applications to PDEs
-* Tue 24 Nov : PDEs - Fast solvers for elliptic problems
-* Final Week of lectures : catch-up, break, or we can have some fun with neural networks?
+### Tue 24 Nov 
+  - [L13-LargeLinearSystems](notes/L13-LargeLinearSystems.ipynb)
+
+### Thu 26 Nov
+  - Project 2 groups 5 and 6: Nonlinear conservation laws, Fast Fourier Transform
+
+### Tue 1 Dec
+  - Guest lecture by Tony Wong on the Closest Point Method 
+
+### Thu 3 Dec 
+  - Project 2 groups 7 and 8: tbc
