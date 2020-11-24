@@ -140,9 +140,9 @@ No lecture due to Imagine Day.
  - Implementation of finite-difference laplace operator in 2D, 3D, ...
  - [WS03-FDiff2D](notes/WS03-FDiff2D.ipynb)
 
-
 ### Tue 24 Nov 
   - [L13-LargeLinearSystems](notes/L13-LargeLinearSystems.ipynb)
+  - [Live Recording](https://www.dropbox.com/s/sgbiif5d4mdwomn/LL-24Nov.mp4?dl=0)
   - R08-Preconditioning: [[pdf]](https://www.dropbox.com/s/b6rvlaz88fsrjdl/R08-Preconditioning.pdf?dl=0 [[mp4]](https://www.dropbox.com/s/zk6apsj8i9m99ib/R08-Preconditioning.mp4?dl=0)
   - Further reading: Finite Elements and Fast Iterative Solvers, Howard Elman, David Silvester, and Andy Wathen; [[html]](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=us&lang=en&#)
 
