@@ -1,4 +1,4 @@
-
+README.md
 # MATH 405/607
 
 # Numerical Methods for Differential Equations
@@ -121,7 +121,7 @@ No lecture due to Imagine Day.
 ### Tue 10 Nov
  - [L11-SpectralMethods-Approximation](notes/L11-SpectralMethods-Approximation.ipynb)
  - Recorded Lecture on Paley Wiener Theorems: [[pdf]](https://www.dropbox.com/s/yhot3194h9yojd1/R07-PaleyWienerTheorem.pdf?dl=0) [[mov]](https://www.dropbox.com/s/6ecozbehn8300tw/R07-PaleyWienerTheorem.mov?dl=0) [[m4v]](https://www.dropbox.com/s/i2zpre79kgg9jdo/R07-PaleyWienerTheorems.m4v?dl=0)
- - [Live Recording](https://www.dropbox.com/s/p3ihc1vc2qccz7d/LL-10Nov.mp4?dl=0)
+ - [Live Recording](https://www.dropbox.com/s/p3ihc1vc2qccz7d/LL-10Nov.mp4?dl=0) [[PDF]](https://www.dropbox.com/s/tjvmu8xddnukuv1/LL-10Nov-SpectralMethods-Approx.pdf?dl=0)
 
 ### Thu 12 Nov 
   - Miniproject 2 - Group 2 : Symplectic Integrators 
@@ -130,7 +130,7 @@ No lecture due to Imagine Day.
 
 ### Tue 17 Nov
   - [L12-SpectralMethods-PDE](notes/L12-SpectralMethods-BVPs.ipynb)
-  - [Live Recording](https://www.dropbox.com/s/y1sqjjzdtuub7ds/LL-17Nov.mp4?dl=0)
+  - [Live Recording](https://www.dropbox.com/s/y1sqjjzdtuub7ds/LL-17Nov.mp4?dl=0) [[PDF]](https://www.dropbox.com/s/g3woy9pkqusycpk/LL-17Nov-SpectralMethods-PDEs.pdf?dl=0)
 
 ### Thu 19 Nov
   - Project 2 - Lax-Wendroff Scheme
@@ -143,6 +143,8 @@ No lecture due to Imagine Day.
 
 ### Tue 24 Nov 
   - [L13-LargeLinearSystems](notes/L13-LargeLinearSystems.ipynb)
+  - R08-Preconditioning: [[pdf]](https://www.dropbox.com/s/b6rvlaz88fsrjdl/R08-Preconditioning.pdf?dl=0 [[mp4]](https://www.dropbox.com/s/zk6apsj8i9m99ib/R08-Preconditioning.mp4?dl=0)
+  - Further reading: Finite Elements and Fast Iterative Solvers, Howard Elman, David Silvester, and Andy Wathen; [[html]](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=us&lang=en&#)
 
 ### Thu 26 Nov
   - Project 2 groups 5 and 6: Nonlinear conservation laws, Fast Fourier Transform
