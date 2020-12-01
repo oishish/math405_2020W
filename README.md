@@ -1,4 +1,4 @@
-
+README.md
 # MATH 405/607
 
 # Numerical Methods for Differential Equations
@@ -121,19 +121,36 @@ No lecture due to Imagine Day.
 ### Tue 10 Nov
  - [L11-SpectralMethods-Approximation](notes/L11-SpectralMethods-Approximation.ipynb)
  - Recorded Lecture on Paley Wiener Theorems: [[pdf]](https://www.dropbox.com/s/yhot3194h9yojd1/R07-PaleyWienerTheorem.pdf?dl=0) [[mov]](https://www.dropbox.com/s/6ecozbehn8300tw/R07-PaleyWienerTheorem.mov?dl=0) [[m4v]](https://www.dropbox.com/s/i2zpre79kgg9jdo/R07-PaleyWienerTheorems.m4v?dl=0)
- - [Live Recording](https://www.dropbox.com/s/p3ihc1vc2qccz7d/LL-10Nov.mp4?dl=0)
+ - [Live Recording](https://www.dropbox.com/s/p3ihc1vc2qccz7d/LL-10Nov.mp4?dl=0) [[PDF]](https://www.dropbox.com/s/tjvmu8xddnukuv1/LL-10Nov-SpectralMethods-Approx.pdf?dl=0)
 
 ### Thu 12 Nov 
   - Miniproject 2 - Group 2 : Symplectic Integrators 
   - Miniproject 2 - Grad-Students : SDEs 
   - [Live Recording](https://www.dropbox.com/s/dxb9yfex24iif7f/LL-12Nov.mp4?dl=0)
 
+### Tue 17 Nov
+  - [L12-SpectralMethods-PDE](notes/L12-SpectralMethods-BVPs.ipynb)
+  - [Live Recording](https://www.dropbox.com/s/y1sqjjzdtuub7ds/LL-17Nov.mp4?dl=0) [[PDF]](https://www.dropbox.com/s/g3woy9pkqusycpk/LL-17Nov-SpectralMethods-PDEs.pdf?dl=0)
+
+### Thu 19 Nov
+  - Project 2 - Lax-Wendroff Scheme
+  - [Live Recording](https://www.dropbox.com/s/sjnaci6zuswz7o3/LL-19Nov.mp4?dl=0)
+
 ### Preparatory Reading for Fast Solvers / General Interest
  - Implementation of finite-difference laplace operator in 2D, 3D, ...
  - [WS03-FDiff2D](notes/WS03-FDiff2D.ipynb)
 
+### Tue 24 Nov 
+  - [L13-LargeLinearSystems](notes/L13-LargeLinearSystems.ipynb)
+  - [Live Recording](https://www.dropbox.com/s/sgbiif5d4mdwomn/LL-24Nov.mp4?dl=0)
+  - R08-Preconditioning: [[pdf]](https://www.dropbox.com/s/b6rvlaz88fsrjdl/R08-Preconditioning.pdf?dl=0 [[mp4]](https://www.dropbox.com/s/zk6apsj8i9m99ib/R08-Preconditioning.mp4?dl=0)
+  - Further reading: Finite Elements and Fast Iterative Solvers, Howard Elman, David Silvester, and Andy Wathen; [[html]](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=us&lang=en&#)
 
-### Rough outline of remaining lectures
-* Tue 17 Nov : Spectral methods - applications to PDEs
-* Tue 24 Nov : PDEs - Fast solvers for elliptic problems
-* Final Week of lectures : catch-up, break, or we can have some fun with neural networks?
+### Thu 26 Nov
+  - Project 2 groups 5 and 6: Nonlinear conservation laws, Fast Fourier Transform
+
+### Tue 1 Dec
+  - Guest lecture by Tony Wong on the Closest Point Method 
+
+### Thu 3 Dec 
+  - Project 2 groups 7 and 8: tbc
